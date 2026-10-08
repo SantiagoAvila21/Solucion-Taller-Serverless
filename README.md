@@ -1,6 +1,6 @@
 # Taller de Microservicios y Serverless — Pizzería
 
-Estudiante: _(escribe tu nombre aquí)_
+Estudiante: Santiago Avila
 
 ## Descripción
 
